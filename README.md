@@ -13,3 +13,5 @@
 - ### Project Two   : [Data Wrangling | Gather, Assess, and Clean Tweet Archive WeRateDogs Data using Tweepy to query Twitter's API ](https://github.com/rbpal/Udacity_DAND_2018_TermTwo_Project_2_Gather_Assess_Clean_Tweet_Archive_WeRateDogs_Data)
 
 - ### Project Three : [Tableau story telling from  Prosper Loan Dataset from Prosper Marketplace: Explore No Show Appointment](https://github.com/rbpal/Udacity_DAND_2018_TermTwo_Project_3_Telling_Story_Using_Tableau_visualization)
+
+## ![](https://github.com/rbpal/Udacity_Data_Analyst_Nanodegree/blob/master/udacity-DAND-rbpal.jpg)
